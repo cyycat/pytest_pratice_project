@@ -2,7 +2,7 @@ import pytest
 
 @pytest.fixture(scope="function")
 def login():
-    print("这是登陆")
+    print("这是登陆1")
     yield
     print("退出登陆拉")
 

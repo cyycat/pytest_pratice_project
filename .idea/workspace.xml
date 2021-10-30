@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86b7e25c-7c8c-4c59-a6ac-fd88041a3245" name="Default" comment="" />
+    <list default="true" id="86b7e25c-7c8c-4c59-a6ac-fd88041a3245" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pytest_stu/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_stu/conftest.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pytest_stu/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -58,11 +69,11 @@
         <option value="$PROJECT_DIR$/pytest_stu/test_setup_teardown.py" />
         <option value="$PROJECT_DIR$/pytest_stu/tesst_mark_param.py" />
         <option value="$PROJECT_DIR$/pytest_stu/test_mark_param.py" />
-        <option value="$PROJECT_DIR$/pytest_stu/conftest.py" />
         <option value="$PROJECT_DIR$/pytest_stu/参数化用例/pytest数据参数化/data.yaml" />
         <option value="$PROJECT_DIR$/pytest_stu/参数化用例/pytest数据参数化/test_data.py" />
         <option value="$PROJECT_DIR$/pytest_stu/allure测试报告/test_alluredemo.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pytest_stu/conftest.py" />
       </list>
     </option>
   </component>
@@ -258,8 +269,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="25" width="1388" height="875" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21872714" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21872714" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -267,7 +279,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32901555" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.6761658" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.6761658" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -407,13 +419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pytest_stu/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pytest_stu/test_setup_teardown.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -463,6 +468,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest_stu/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
